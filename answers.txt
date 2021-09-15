@@ -1,0 +1,15 @@
+1.What is a gitignore file and what should it include for a Java project?
+
+Ans: The .gitignore file is in the root folder of the repository and we need to add the extensions of the file which we want to exclude them form the reposotiry. The *.jar, *.vs, *.class files aslo need to be included.
+
+2.What does fast-forward in Git mean?
+
+Ans: To merge the changes of another branch in our local branch without any conflcits is a fast forward.
+
+3.Why should you have different branches?
+
+Ans: The reason we nee to avoid any frequent conflicts between the members and the indiviual should be responsible for any of his changes and should have frequent syncing with master of the development branch
+
+4. In a project how many remote Git repositories do you usually have?
+
+Ans: There is no limit. The team can create more than 1 repositories which is generally dependent on the requirment of the project.
